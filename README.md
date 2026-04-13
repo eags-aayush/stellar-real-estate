@@ -16,3 +16,6 @@ This smart contract functions as a digital land registry. It allows a user to mi
 **Contract ID:** `CCLNWTRXGXNJQT4ZBJGDWJ4OXNNJTAE7QVW4X2YZMGAG5NHZMP6ZVNCQ`  
 **View on Stellar Expert (Testnet):** [View Contract](https://stellar.expert/explorer/testnet/contract/CCLNWTRXGXNJQT4ZBJGDWJ4OXNNJTAE7QVW4X2YZMGAG5NHZMP6ZVNCQ)  
 *(Note: If deployed to Mainnet or Futurenet, adjust the explorer URL accordingly)*
+
+<img width="1366" height="681" alt="Screenshot From 2026-04-13 14-29-06" src="https://github.com/user-attachments/assets/e531afb1-e0a9-4ff1-91f0-91815e21d847" />
+
